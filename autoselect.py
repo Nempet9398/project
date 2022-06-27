@@ -11,3 +11,6 @@ while i < 3000:
 ### 집 집집
 
 ##할로할로할로
+C:\Users\lab\Desktop\for_git
+
+https://github.com/Nempet9398/laboratory.git
